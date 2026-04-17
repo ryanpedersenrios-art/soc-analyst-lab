@@ -1,1 +1,8 @@
+[2026-04-10 14:32:11] ALERT: Suspicious login attempt detected
+Source IP: 192.168.1.45
+Destination: Internal Server
+Action: Failed login attempts (5)
 
+[2026-04-10 14:33:02] ALERT: Possible brute force activity
+User: admin
+Status: Locked account after multiple failures
